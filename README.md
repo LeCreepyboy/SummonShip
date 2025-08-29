@@ -9,8 +9,15 @@ Summon by holding X on keyboard, or Dpad UP on controller.
 
 
 Works from a planet :
-[![SummonShip demo](https://img.youtube.com/vi/E_qbiPFL1gg/hqdefault.jpg)](https://youtu.be/E_qbiPFL1gg)
+
+
+https://github.com/user-attachments/assets/d09b4acc-cdee-4a80-8019-db569efede20
+
+
 
 Or in space !
-[![SummonShip demo](https://img.youtube.com/vi/keyNNaEnc_c/hqdefault.jpg)](https://youtu.be/keyNNaEnc_c)
+
+
+https://github.com/user-attachments/assets/e7761084-7baf-40b8-a8c6-fa706db3d709
+
 
