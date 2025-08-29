@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "SummonShip.dll",
+  "author": "LeCreepyboy",
+  "name": "SummonShip",
+  "uniqueName": "LeCreepyboy.SummonShip",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": [],
+  "description": "Summon the ship by holding X, cancel by holding X again"
+}
